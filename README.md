@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 ![](https://tenor.com/pt-BR/view/cat-computer-typing-fast-gif-5368357)
- ![Snake animation](https://github.com/hhtpsucla/httpsucla/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/httpsucla/httpsucla/blob/output/github-contribution-grid-snake.svg)
           
                   
