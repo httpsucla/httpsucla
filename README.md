@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/httpsucla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpsucla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsucla&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+![](https://tenor.com/pt-BR/view/cat-computer-typing-fast-gif-5368357)
+ ![Snake animation](https://github.com/hhtpsucla/httpsucla/blob/output/github-contribution-grid-snake.svg)
+          
+                  
