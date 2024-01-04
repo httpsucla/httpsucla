@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 - 🖥 Front-end developer
-- 🎓 Estudante de Análise e desenvolvimento de sistemas
- 
+- 🎓 Graduada em Tecnologia de Análise e desenvolvimento de sistemas
+- 🎓 Pós-graduação em Desenvolvimentos de Aplicativos Móveis
+  
 <div>
   <a href="https://github.com/httpsucla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpsucla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
